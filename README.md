@@ -117,7 +117,7 @@ team-project-management/
 ## 📬 Connect With Me
 
 - 🐙 [GitHub](https://github.com/ihitarthpatel)
-- 💼 [LinkedIn](https://linkedin.com/in/hitarth-dhaduk)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hitarth-dhaduk-47a9a9247/)
 
 ---
 
