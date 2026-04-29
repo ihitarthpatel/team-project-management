@@ -8,3 +8,6 @@ Thumbs.db
 *~
 .vscode/
 .idea/
+
+# AI assistant files
+.gemini/

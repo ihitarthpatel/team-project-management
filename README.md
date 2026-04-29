@@ -28,15 +28,16 @@ To successfully plan and execute a tech event through effective:
 ## 🔄 Project Flow
 
 ```
-┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│   PLANNING  │───▶│ PREPARATION │───▶│  EXECUTION  │───▶│   REVIEW    │
-│   Week 1    │    │   Week 2    │    │  Event Day  │    │   Week 3    │
-├─────────────┤    ├─────────────┤    ├─────────────┤    ├─────────────┤
-│ • Set goals │    │ • Design    │    │ • Setup     │    │ • Feedback  │
-│ • Assign    │    │ • Develop   │    │ • Workshop  │    │ • Analysis  │
-│   roles     │    │ • Promote   │    │ • Hackathon │    │ • Report    │
-│ • Timeline  │    │ • Book venue│    │ • Certs     │    │ • Lessons   │
-└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│  PLANNING   │───▶│  RESEARCH   │───▶│   BUILD &   │───▶│   FINAL     │───▶│   REVIEW    │
+│   Week 1    │    │   Week 2    │    │   PROMOTE   │    │   PREP      │    │   Week 5    │
+│             │    │             │    │   Week 3    │    │   Week 4    │    │             │
+├─────────────┤    ├─────────────┤    ├─────────────┤    ├─────────────┤    ├─────────────┤
+│ • Set goals │    │ • Venues    │    │ • Design    │    │ • Testing   │    │ • Feedback  │
+│ • Assign    │    │ • Speakers  │    │ • Develop   │    │ • Dry run   │    │ • Analysis  │
+│   roles     │    │ • Risk plan │    │ • Promote   │    │ • Event day │    │ • Report    │
+│ • Timeline  │    │ • Budget    │    │ • Book venue│    │ • Certs     │    │ • Lessons   │
+└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
 ```
 
 ---
@@ -46,7 +47,7 @@ To successfully plan and execute a tech event through effective:
 | Responsibility          | What I Did                                    |
 |------------------------|-----------------------------------------------|
 | Task Assignment        | Distributed work based on team strengths      |
-| Timeline Management    | Created & tracked a 3-week project plan       |
+| Timeline Management    | Created & tracked a 5-week project plan       |
 | Decision Making        | Made key decisions on venue, budget, execution |
 | Problem Solving        | Resolved blockers and coordination issues     |
 | Team Communication     | Led weekly meetings and daily check-ins       |
@@ -72,11 +73,12 @@ team-project-management/
 │
 ├── README.md                    ← You are here
 ├── LICENSE
+├── CONTRIBUTING.md              ← Contribution guidelines
 │
 ├── docs/
 │   ├── project-overview.md      ← Goals, scope & budget
 │   ├── team-structure.md        ← Roles & responsibilities
-│   ├── timeline.md              ← 3-week project timeline
+│   ├── timeline.md              ← 5-week project timeline
 │   ├── risk-management.md       ← Risks & solutions
 │
 ├── tasks/
@@ -114,8 +116,8 @@ team-project-management/
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) ← *Update with your link*
-- 📧 Email: your.email@example.com ← *Update with your email*
+- 🐙 [GitHub](https://github.com/ihitarthpatel)
+- 💼 [LinkedIn](https://linkedin.com/in/hitarth-dhaduk)
 
 ---
 

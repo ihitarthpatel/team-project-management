@@ -14,10 +14,37 @@
 A clear leader who takes ownership of planning, delegation, and follow-ups is essential for team success. Making timely decisions and resolving conflicts kept the project on track.
 
 ### 2. Time Management is Critical
-Setting deadlines for every phase and tracking progress weekly ensured nothing was left for the last minute. The 3-week timeline kept the team focused and accountable.
+Setting deadlines for every phase and tracking progress weekly ensured nothing was left for the last minute. The 5-week timeline kept the team focused and accountable.
 
 ### 3. Communication is Key
 Regular check-ins, clear role definitions, and dedicated communication channels eliminated confusion and kept the entire team aligned on goals and expectations.
+
+---
+
+## 📊 Key Metrics
+
+| Metric                      | Target         | Actual          | Status |
+|-----------------------------|----------------|-----------------|--------|
+| Event Registrations         | 50             | 67              | ✅ Exceeded |
+| Event Attendance            | —              | 58 (87% of reg) | ✅ Strong |
+| Participant Satisfaction    | ≥ 80%          | 88%             | ✅ Exceeded |
+| Task Completion Rate        | 100%           | 100%            | ✅ Met |
+| Project Duration            | 5 weeks        | 5 weeks         | ✅ On time |
+
+---
+
+## 💰 Budget Summary
+
+| Item                  | Estimated  | Actual     |
+|-----------------------|------------|------------|
+| Venue & Setup         | ₹5,000     | ₹4,800     |
+| Refreshments          | ₹3,000     | ₹3,100     |
+| Printing & Promotion  | ₹1,500     | ₹1,400     |
+| Prizes & Certificates | ₹2,500     | ₹2,400     |
+| Miscellaneous         | ₹1,000     | ₹1,000     |
+| **Total**             | **₹13,000**| **₹12,700**|
+
+> Final spend was **2.3% under budget** — within the ±10% target.
 
 ---
 
